@@ -7,13 +7,13 @@
     },
     {
       "file": "main.js",
-      "line": 141,
-      "description": "Remember, this function is called every time a coach clicks on the player buttons you created earlier. So before you do anything, you need to make sure the quarter isn't currently in progress. While in a real basketball game a coach can swap players out during a quarter, we only have enough data on our Tune Squad players to swap in between quarters. \r\n\r\nSo, if the `quarterInPlay` variable is true, simply `return` from this function so nothing else happens."
+      "line": 146,
+      "description": "Before you can move a player, you need to know where they are! You can determine whether a player is on the bench or the court using `this.parentElement` - save that value in a variable called `parentDiv`."
     },
     {
       "file": "main.js",
-      "line": 146,
-      "description": "Before you can move a player, you need to know where they are! You can determine whether a player is on the bench or the court using `this.parentElement` - save that value in a variable called `parentDiv`."
+      "line": 141,
+      "description": "Remember, this function is called every time a coach clicks on the player buttons you created earlier. So before you do anything, you need to make sure the quarter isn't currently in progress. While in a real basketball game a coach can swap players out during a quarter, we only have enough data on our Tune Squad players to swap in between quarters. \r\n\r\nSo, if the `quarterInPlay` variable is true, simply `return` from this function so nothing else happens."
     },
     {
       "file": "main.js",

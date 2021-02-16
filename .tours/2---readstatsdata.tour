@@ -3,12 +3,12 @@
   "title": "2 - Read Stats Data",
   "steps": [
     {
-      "description": "You're ready to start processing your player data! This tour finishes up the [8th unit of the Tune Squad Coaches App Learn Module](https://docs.microsoft.com/learn/modules/optimize-basketball-player-rest-breaks/8-initialize-app). \r\n\r\nClick next to start this tour!"
-    },
-    {
       "file": "main.js",
       "line": 20,
       "description": "It's time to read in the stats from the `game_stats.csv` file that you created using machine learning! You can see that `allPlayerStats` is being passed in to this function. This is basically a long string with all of the data separated by a newline (`\\n`) for each row. Split the `allPlayerStats` data by `\\n` and save that array into a variable called `allPlayerStatLines`. "
+    },
+    {
+      "description": "You're ready to start processing your player data! This tour finishes up the [8th unit of the Tune Squad Coaches App Learn Module](https://docs.microsoft.com/learn/modules/optimize-basketball-player-rest-breaks/8-initialize-app). \r\n\r\nClick next to start this tour!"
     },
     {
       "file": "main.js",

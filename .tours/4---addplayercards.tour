@@ -7,11 +7,6 @@
     },
     {
       "file": "main.js",
-      "line": 94,
-      "description": "The first thing you need to do is store the purple `playerCards` element in a variable called `playerCardDisplay` using the `getElementById` function."
-    },
-    {
-      "file": "main.js",
       "line": 98,
       "description": "Again, you will need to loop through your players, but this time you need access to both the player's name and their PER. You can use the `for(let [x, y] of z.entries())` loop type, which will yield two variables you can use through your for loop: `playerName` and `playerStats`."
     },
@@ -19,6 +14,11 @@
       "file": "main.js",
       "line": 100,
       "description": "For each player, create a div with the `createElement` function called `playerCard`."
+    },
+    {
+      "file": "main.js",
+      "line": 94,
+      "description": "The first thing you need to do is store the purple `playerCards` element in a variable called `playerCardDisplay` using the `getElementById` function."
     },
     {
       "file": "main.js",
