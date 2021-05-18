@@ -5,4 +5,4 @@ This repo is a template for the Tune Squad Coaches App, which is part of the sec
 
 Copyright (c) Microsoft Corporation.
 
-(c) 2020 Warner Bros. Ent. All Rights Reserved.
+(c) 2021 Warner Bros. Ent. All Rights Reserved.
